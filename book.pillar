@@ -1,0 +1,3 @@
+${inputFile:Chapters/svd.pillar}$
+${inputFile:Chapters/pca.pillar}$
+${inputFile:Chapters/tsne.pillar}$

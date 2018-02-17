@@ -1,0 +1,27 @@
+{
+    "package": {
+        "name": "booklet-SVD-PCA-tSNE",
+        "repo": "wip",
+        "subject": "squarebracketassociates",
+        "desc": "Smacc",
+        "licenses": ["MIT"],
+        "website_url": "https://github.com/SquareBracketAssociates/Booklet-SVD-PCA-tSNE",
+        "issue_tracker_url": "https://github.com/SquareBracketAssociates/Booklet-SVD-PCA-tSNE/issues",
+        "vcs_url": "https://github.com/SquareBracketAssociates/Booklet-SVD-PCA-tSNE.git",
+        "labels": ["work-in-progress"]
+    },
+
+    "version": {
+        "name": "latest",
+        "desc": "Latest successful build"
+    },
+
+    "files": [
+        {
+            "includePattern": "build/book.spiral.pdf",
+            "uploadPattern": "svd-pca-tsne-wip.pdf",
+            "matrixParams": { "override": 1 }
+        }
+    ],
+    "publish": true
+}
